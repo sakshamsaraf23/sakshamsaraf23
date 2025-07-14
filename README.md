@@ -21,7 +21,7 @@
 - ✨ AI/ML Engineer | Open-Source Contributor <br>
 - 📫 How to reach me ✨ [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sarafsaksham243@gmail.com)](mailto:sarafsaksham243@gmail.com) OR [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sakshamsaraf/)](https://www.linkedin.com/in/sakshamsaraf/)
 - 💬 Ask me about AI/Machine Learning/Data Structures.
-- 📄 Know more about my experiences [resume](./assets/saksham_ka_resume.pdf) <br>
+- 📄 Know more about my experiences [resume](./assets/saksham_ka_resume(5).pdf) <br>
 <!--- 👨🏻‍💻 All of my projects are available at [Portfolio](https://www.jaidhingra.tech/)<br> -->
 <br><br><br>
 <!--- Adding Tech Stack open Section -->
