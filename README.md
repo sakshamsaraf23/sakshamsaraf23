@@ -20,9 +20,10 @@
 🌱 **About Me :-**<img src="https://github.com/sakshamsaraf23/sakshamsaraf23/blob/main/assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 - ✨ AI/ML Engineer | Open-Source Contributor <br>
 - 📫 How to reach me ✨ [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sarafsaksham243@gmail.com)](mailto:sarafsaksham243@gmail.com) OR [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sakshamsaraf/)](https://www.linkedin.com/in/sakshamsaraf/)
-- 💬 Ask me about AI/Machine Learning/Data Structures.<br>
-<!--- 👨🏻‍💻 All of my projects are available at [Portfolio](https://www.jaidhingra.tech/)<br>
-- 📄 Know more about my experiences [resume](./assets/jai_dhingra_resume.pdf) -->
+- 💬 Ask me about AI/Machine Learning/Data Structures.
+- 📄 Know more about my experiences [resume](./assets/saksham_ka_resume.pdf) <br>
+<!--- 👨🏻‍💻 All of my projects are available at [Portfolio](https://www.jaidhingra.tech/)<br> -->
+<br><br><br>
 <!--- Adding Tech Stack open Section -->
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack </h1>
@@ -87,8 +88,8 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <b>⚙️ GitHub Analytics</b></summary>
 <div align="center">
   <!-- Streak Stats -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sakshamsaraf23&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
-  
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sakshamsaraf23&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+ 
   <!-- Language Stats and Profile Summary in one row -->
   <div style="display: inline-flex; gap: 10px; margin-top: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamsaraf23&show_icons=true&locale=en&layout=compact" alt="sakshamsaraf23" />
