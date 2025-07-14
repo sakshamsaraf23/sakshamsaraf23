@@ -25,7 +25,7 @@
 <!--- 👨🏻‍💻 All of my projects are available at [Portfolio](https://www.jaidhingra.tech/)<br> -->
 <br><br><br>
 <!--- Adding Tech Stack open Section -->
-
+<br>
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack </h1>
 
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
@@ -87,8 +87,8 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 <b>⚙️ GitHub Analytics</b></summary>
 <div align="center">
-  <!-- Streak Stats -->
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sakshamsaraf23&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+  <!-- Streak Stats 
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sakshamsaraf23&theme=highcontrast&border_radius=4" alt="GitHub Streak" /></a>
  
   <!-- Language Stats and Profile Summary in one row -->
   <div style="display: inline-flex; gap: 10px; margin-top: 10px;">
